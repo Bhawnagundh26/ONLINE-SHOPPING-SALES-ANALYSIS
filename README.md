@@ -1,4 +1,5 @@
-# 🛍️ Online Shopping Sales Analysis Dashboard (Excel)
+#<img width="1920" height="1080" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/de418d91-71f3-42e1-b926-f5a668527f5b" />
+ 🛍️ Online Shopping Sales Analysis Dashboard (Excel)
 
 This project showcases an interactive **Excel Dashboard** to analyze and visualize online shopping sales data. It provides meaningful insights into order patterns, customer demographics, regional performance, and platform-wise contributions using **Advanced Excel techniques**.
 
